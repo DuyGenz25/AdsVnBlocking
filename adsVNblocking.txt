@@ -16,7 +16,7 @@ animevietsub.love##.Footer
 ||improving.duckduckgo.com^
 ||moneyveo.vn^
 nettruyenqq.org##footer > .wrapper
-animehay08.site##.ah-footer__inner
+animehay*.site##.ah-footer__inner
 m.memuplay.com###footer
 apkpure.com##.footer_new
 truyenqq.com.vn##.product-grid
